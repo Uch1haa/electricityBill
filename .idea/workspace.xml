@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b9301a1-166b-4cbf-93a6-501ddad51a99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/electricityBill.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/About.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/BillDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/CalculateBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/Comm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/CustomerDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/DepositDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/GenerateBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/LastBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/MeterInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/NewCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/PayBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/PayTmn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/SignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/UpdateInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Electricity/ViewInfo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Kpu2itSwhtivRnEVT9rKA74l4A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Orinet/Downloads/Electricity-Billing-System/Electricity-Billing-System/rs2xml.jar",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b9301a1-166b-4cbf-93a6-501ddad51a99" name="Changes" comment="" />
+      <created>1674683645893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674683645893</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
