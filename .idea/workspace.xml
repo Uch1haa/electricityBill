@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b9301a1-166b-4cbf-93a6-501ddad51a99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electricityBill.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/About.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/BillDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/CalculateBill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/Comm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/CustomerDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/DepositDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/GenerateBill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/LastBill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/MeterInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/NewCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/PayBill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/PayTmn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/SignUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/UpdateInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electricity/ViewInfo.java" afterDir="false" />
-    </list>
+    <list default="true" id="7b9301a1-166b-4cbf-93a6-501ddad51a99" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +30,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/Orinet/Downloads/Electricity-Billing-System/Electricity-Billing-System/rs2xml.jar",
@@ -72,6 +48,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674683645893</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1674687192398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674687192398</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,5 +68,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
